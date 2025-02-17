@@ -45,5 +45,3 @@ This repository contains example files and resources to help you master essentia
 If you found this helpful, let's connect on **[LinkedIn](https://www.linkedin.com/in/arfa-taj-n/)** for more data analytics content! 🚀
 
 📌 **Don't forget to star ⭐ this repo and share it with others learning Excel for Data Analytics!**
-
-#Excel #DataAnalytics #GitHub #ExcelFunctions #DataAnalyst #LearnExcel
